@@ -849,6 +849,14 @@ var map = {
 		"./src/app/tab3/tab3.module.ts",
 		"tab3-tab3-module"
 	],
+	"../tab4/tab4.module": [
+		"./src/app/tab4/tab4.module.ts",
+		"tab4-tab4-module"
+	],
+	"../tab5/tab5.module": [
+		"./src/app/tab5/tab5.module.ts",
+		"tab5-tab5-module"
+	],
 	"./tabs/tabs.module": [
 		"./src/app/tabs/tabs.module.ts",
 		"tabs-tabs-module"

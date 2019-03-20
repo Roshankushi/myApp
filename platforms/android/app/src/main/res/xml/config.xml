@@ -27,7 +27,7 @@
     <name>Msd App</name>
     <description>Msd App</description>
     <author email="roshankushi9@gmail.com" href="http://bhilwarainfo.com/">Ionic Framework Team</author>
-    <content original-src="index.html" src="http://192.168.0.74:8100" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -35,7 +35,6 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <allow-navigation href="http://192.168.0.74:8100" sessionid="5cb7c4d9" />
     <allow-intent href="market:*" />
     <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />
     <icon density="mdpi" src="resources/android/icon/drawable-mdpi-icon.png" />
